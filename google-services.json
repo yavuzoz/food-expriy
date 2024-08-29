@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757098159822",
+    "project_id": "food-expriy",
+    "storage_bucket": "food-expriy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757098159822:android:dfe74d1ccbefed9b91fa9f",
+        "android_client_info": {
+          "package_name": "com.ozbay.shelfsecure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAabJf4ZeqwHBny6U3PWSNQCxF-LDxFe0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
